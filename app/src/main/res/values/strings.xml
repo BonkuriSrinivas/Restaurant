@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Restaurant</string>
+
+
+    <string name="name">Inka Restaurant</string>
+    <string name="text">5.0(200+) | All days : 09:00 AM - 06:00 PM</string>
+    <string name="text1">Reach us at : 9854562142</string>
+    <string name="book">BOOK A TABLE</string>
+    <string name="cart">VIEW CART</string>
+    <string name="cart2">MY CART</string>
+    <string name="starter">Starter</string>
+    <string name="main_co">Main Course</string>
+    <string name="dessert">Dessert</string>
+    <string name="drinks">Drinks</string>
+
+    <string name="p_order">PLACE ORDER</string>
+    <string name="cart1">Total Cost</string>
+
+    <string name="menu">MENU</string>
+    <string name="review">Review Orders</string>
+    <string name="delivery">Delivery Options</string>
+</resources>
